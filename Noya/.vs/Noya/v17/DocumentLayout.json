@@ -1,0 +1,1028 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\source\\repos\\Noya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\ahmed\\source\\repos\\noya.dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\ahmed\\source\\repos\\noya.dal\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\ahmed\\source\\repos\\noya.api\\controllers\\bundlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\ahmed\\source\\repos\\noya.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\ahmed\\source\\repos\\noya.api\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\ahmed\\source\\repos\\noya.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\ahmed\\source\\repos\\noya.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\ahmed\\source\\repos\\noya.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\ahmed\\source\\repos\\noya.api\\controllers\\providercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\ahmed\\source\\repos\\noya.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\ahmed\\source\\repos\\noya.api\\controllers\\shippingagencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\ahmed\\source\\repos\\noya.api\\controllers\\shippingdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\ahmed\\source\\repos\\noya.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\services\\bundleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\interfaces\\ibundleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\services\\shippingdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\interfaces\\ishippingdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\services\\shippingagencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\interfaces\\ishippingagencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\interfaces\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\services\\providerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\interfaces\\iproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\ahmed\\source\\repos\\noya.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\ahmed\\source\\repos\\noya.dal\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\ahmed\\source\\repos\\noya.dal\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\ahmed\\source\\repos\\noya.dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\ahmed\\source\\repos\\noya.dal\\bundlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\ahmed\\source\\repos\\noya.dal\\shippingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\ahmed\\source\\repos\\noya.dal\\shippingagencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\ahmed\\source\\repos\\noya.dal\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\ahmed\\source\\repos\\noya.dal\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\ahmed\\source\\repos\\noya.dal\\providerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\ahmed\\source\\repos\\noya.dal\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\ahmed\\source\\repos\\noya.dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\reportdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\callcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\bundleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\bundle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\shippingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\shippingagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\ahmed\\source\\repos\\noya.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "..\\Noya.API\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:10:51.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "..\\Noya.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:08:46.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BundleController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\BundleController.cs",
+              "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\BundleController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\BundleController.cs",
+              "RelativeToolTip": "..\\Noya.API\\Controllers\\BundleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:12:35.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "..\\Noya.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:11:16.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "..\\Noya.API\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:11:36.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\Noya.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:10:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\DbHelper.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\DbHelper.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:48:26.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\OrderRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\OrderRepository.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:52:39.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProviderController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\ProviderController.cs",
+              "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\ProviderController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\ProviderController.cs",
+              "RelativeToolTip": "..\\Noya.API\\Controllers\\ProviderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:10:31.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "..\\Noya.API\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:08:28.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShippingAgencyController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\ShippingAgencyController.cs",
+              "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\ShippingAgencyController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\ShippingAgencyController.cs",
+              "RelativeToolTip": "..\\Noya.API\\Controllers\\ShippingAgencyController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:11:57.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShippingDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\ShippingDetailController.cs",
+              "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\ShippingDetailController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\ShippingDetailController.cs",
+              "RelativeToolTip": "..\\Noya.API\\Controllers\\ShippingDetailController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:12:17.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\Noya.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:08:04.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BundleService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\BundleService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Services\\BundleService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\BundleService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Services\\BundleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:05:22.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBundleService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IBundleService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Interfaces\\IBundleService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IBundleService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Interfaces\\IBundleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:05:09.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShippingDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\ShippingDetailService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Services\\ShippingDetailService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\ShippingDetailService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Services\\ShippingDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:04:53.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IShippingDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IShippingDetailService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Interfaces\\IShippingDetailService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IShippingDetailService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Interfaces\\IShippingDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:04:38.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShippingAgencyService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\ShippingAgencyService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Services\\ShippingAgencyService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\ShippingAgencyService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Services\\ShippingAgencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:04:19.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IShippingAgencyService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IShippingAgencyService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Interfaces\\IShippingAgencyService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IShippingAgencyService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Interfaces\\IShippingAgencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:04:00.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\PaymentService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:03:40.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:03:25.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\OrderService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:03:06.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:02:41.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Services\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\InventoryService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Services\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:02:08.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IInventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IInventoryService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Interfaces\\IInventoryService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IInventoryService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Interfaces\\IInventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:01:51.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProviderService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\ProviderService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Services\\ProviderService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\ProviderService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Services\\ProviderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:01:30.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProviderService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IProviderService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Interfaces\\IProviderService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IProviderService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Interfaces\\IProviderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:01:16.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:00:57.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:00:42.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:00:18.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:59:59.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\RoleService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Services\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:59:38.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Interfaces\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Interfaces\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:59:14.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:58:49.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:58:12.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.BLL\\Class1.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:57:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\IRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:49:20.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:51:37.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\CategoryRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:51:19.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BundleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\BundleRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\BundleRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\BundleRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\BundleRepository.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:54:07.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ShippingDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\ShippingDetailRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\ShippingDetailRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\ShippingDetailRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\ShippingDetailRepository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA2wG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:53:43.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ShippingAgencyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\ShippingAgencyRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\ShippingAgencyRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\ShippingAgencyRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\ShippingAgencyRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:53:24.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\PaymentRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\PaymentRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:53:01.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\InventoryRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\InventoryRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\InventoryRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:52:20.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProviderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\ProviderRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\ProviderRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\ProviderRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\ProviderRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:52:00.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\RoleRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\RoleRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:50:56.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.DAL\\UserRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\UserRepository.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwFgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:49:55.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ReportDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\ReportDetail.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\ReportDetail.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\ReportDetail.cs",
+              "RelativeToolTip": "..\\Noya.Models\\ReportDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:46:04.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Report.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\Report.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Report.cs",
+              "RelativeToolTip": "..\\Noya.Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:45:50.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CallCenter.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\CallCenter.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\CallCenter.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\CallCenter.cs",
+              "RelativeToolTip": "..\\Noya.Models\\CallCenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:45:31.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BundleItem.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\BundleItem.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\BundleItem.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\BundleItem.cs",
+              "RelativeToolTip": "..\\Noya.Models\\BundleItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:45:19.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Bundle.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Bundle.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\Bundle.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Bundle.cs",
+              "RelativeToolTip": "..\\Noya.Models\\Bundle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:45:02.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ShippingDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\ShippingDetail.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\ShippingDetail.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\ShippingDetail.cs",
+              "RelativeToolTip": "..\\Noya.Models\\ShippingDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:44:31.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ShippingAgency.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\ShippingAgency.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\ShippingAgency.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\ShippingAgency.cs",
+              "RelativeToolTip": "..\\Noya.Models\\ShippingAgency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:44:10.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Payment.cs",
+              "RelativeToolTip": "..\\Noya.Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:43:55.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\OrderItem.cs",
+              "RelativeToolTip": "..\\Noya.Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:43:31.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Order.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Order.cs",
+              "RelativeToolTip": "..\\Noya.Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:43:16.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Inventory.cs",
+              "RelativeToolTip": "..\\Noya.Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:43:00.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Provider.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\Provider.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Provider.cs",
+              "RelativeToolTip": "..\\Noya.Models\\Provider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:42:47.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Product.cs",
+              "RelativeToolTip": "..\\Noya.Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:42:30.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Category.cs",
+              "RelativeToolTip": "..\\Noya.Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:42:13.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Role.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\Role.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\Role.cs",
+              "RelativeToolTip": "..\\Noya.Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:41:56.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\User.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Noya.Models\\User.cs",
+              "RelativeToolTip": "..\\Noya.Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:41:32.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

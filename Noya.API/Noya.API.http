@@ -1,0 +1,6 @@
+@Noya.API_HostAddress = http://localhost:5277
+
+GET {{Noya.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

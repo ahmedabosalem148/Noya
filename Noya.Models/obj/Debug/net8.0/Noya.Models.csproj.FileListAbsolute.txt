@@ -1,0 +1,11 @@
+C:\Users\ahmed\source\repos\Noya.Models\bin\Debug\net8.0\Noya.Models.deps.json
+C:\Users\ahmed\source\repos\Noya.Models\bin\Debug\net8.0\Noya.Models.dll
+C:\Users\ahmed\source\repos\Noya.Models\bin\Debug\net8.0\Noya.Models.pdb
+C:\Users\ahmed\source\repos\Noya.Models\obj\Debug\net8.0\Noya.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\Noya.Models\obj\Debug\net8.0\Noya.Models.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\Noya.Models\obj\Debug\net8.0\Noya.Models.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\Noya.Models\obj\Debug\net8.0\Noya.Models.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Noya.Models\obj\Debug\net8.0\Noya.Models.dll
+C:\Users\ahmed\source\repos\Noya.Models\obj\Debug\net8.0\refint\Noya.Models.dll
+C:\Users\ahmed\source\repos\Noya.Models\obj\Debug\net8.0\Noya.Models.pdb
+C:\Users\ahmed\source\repos\Noya.Models\obj\Debug\net8.0\ref\Noya.Models.dll

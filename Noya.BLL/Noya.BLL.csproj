@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Noya.DAL\Noya.DAL.csproj" />
+    <ProjectReference Include="..\Noya.Models\Noya.Models.csproj" />
+  </ItemGroup>
+
+</Project>

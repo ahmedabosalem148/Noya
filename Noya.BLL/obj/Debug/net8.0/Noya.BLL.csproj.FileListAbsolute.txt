@@ -1,0 +1,17 @@
+C:\Users\ahmed\source\repos\Noya.BLL\bin\Debug\net8.0\Noya.BLL.deps.json
+C:\Users\ahmed\source\repos\Noya.BLL\bin\Debug\net8.0\Noya.BLL.dll
+C:\Users\ahmed\source\repos\Noya.BLL\bin\Debug\net8.0\Noya.BLL.pdb
+C:\Users\ahmed\source\repos\Noya.BLL\bin\Debug\net8.0\Noya.DAL.dll
+C:\Users\ahmed\source\repos\Noya.BLL\bin\Debug\net8.0\Noya.Models.dll
+C:\Users\ahmed\source\repos\Noya.BLL\bin\Debug\net8.0\Noya.DAL.pdb
+C:\Users\ahmed\source\repos\Noya.BLL\bin\Debug\net8.0\Noya.Models.pdb
+C:\Users\ahmed\source\repos\Noya.BLL\obj\Debug\net8.0\Noya.BLL.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\Noya.BLL\obj\Debug\net8.0\Noya.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\Noya.BLL\obj\Debug\net8.0\Noya.BLL.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\Noya.BLL\obj\Debug\net8.0\Noya.BLL.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\Noya.BLL\obj\Debug\net8.0\Noya.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Noya.BLL\obj\Debug\net8.0\Noya.BLL.csproj.Up2Date
+C:\Users\ahmed\source\repos\Noya.BLL\obj\Debug\net8.0\Noya.BLL.dll
+C:\Users\ahmed\source\repos\Noya.BLL\obj\Debug\net8.0\refint\Noya.BLL.dll
+C:\Users\ahmed\source\repos\Noya.BLL\obj\Debug\net8.0\Noya.BLL.pdb
+C:\Users\ahmed\source\repos\Noya.BLL\obj\Debug\net8.0\ref\Noya.BLL.dll
