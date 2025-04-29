@@ -23,6 +23,13 @@ namespace Noya.API.Controllers
             var categories = _categoryService.GetAll();
             return Ok(categories);
         }
+        [HttpGet("with-products")]
+        public ActionResult<IEnumerable<Category>> GetAllWithProducts()
+        {
+            var categories = _categoryService.GetAllWithProducts();
+            return Ok(categories);
+        }
+
 
         [HttpGet("{id}")]
         public ActionResult<Category> GetById(int id)

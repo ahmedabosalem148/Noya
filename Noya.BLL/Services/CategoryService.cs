@@ -13,6 +13,10 @@ namespace Noya.BLL.Services
         {
             _categoryRepository = new CategoryRepository();
         }
+        public IEnumerable<Category> GetAllWithProducts()
+        {
+            return _categoryRepository.GetAllWithProducts();
+        }
 
         public IEnumerable<Category> GetAll() => _categoryRepository.GetAll();
 

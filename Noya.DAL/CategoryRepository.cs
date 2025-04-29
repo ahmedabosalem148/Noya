@@ -26,6 +26,52 @@ namespace Noya.DAL
             }
             return categories;
         }
+        public IEnumerable<Category> GetAllWithProducts()
+        {
+            var categories = new List<Category>();
+
+            using (var conn = DbHelper.GetConnection())
+            {
+                var cmd = new SqlCommand("SELECT * FROM Categories", conn);
+                using (var reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        categories.Add(new Category
+                        {
+                            CategoryId = reader.GetInt32(reader.GetOrdinal("category_id")),
+                            CategoryName = reader.GetString(reader.GetOrdinal("category_name")),
+                            Products = new List<Product>() // نفضيها مؤقتًا
+                        });
+                    }
+                }
+
+                // لكل كاتيجوري هات المنتجات بتاعته
+                foreach (var cat in categories)
+                {
+                    var productCmd = new SqlCommand("SELECT * FROM Products WHERE category_id = @catId", conn);
+                    productCmd.Parameters.AddWithValue("@catId", cat.CategoryId);
+
+                    using (var reader = productCmd.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            cat.Products.Add(new Product
+                            {
+                                ProductId = reader.GetInt32(reader.GetOrdinal("product_id")),
+                                ProductName = reader.GetString(reader.GetOrdinal("product_name")),
+                                Description = reader.GetString(reader.GetOrdinal("description")),
+                                Price = reader.GetDecimal(reader.GetOrdinal("price")),
+                                Stock = reader.GetInt32(reader.GetOrdinal("stock")),
+                                ImageUrl = reader.GetString(reader.GetOrdinal("image_url"))
+                            });
+                        }
+                    }
+                }
+            }
+
+            return categories;
+        }
 
         public Category GetById(int id)
         {

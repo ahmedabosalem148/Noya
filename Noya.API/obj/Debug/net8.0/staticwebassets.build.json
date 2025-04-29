@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "oFeJTvee2g7HH4GQsLqQ1oOOXtRpSTg+o3cueJyZ9vg=",
+  "Hash": "YQ6HGWm9SMrjFAh9UyUwUqfouscbcR7tjlg1PtItA8s=",
   "Source": "Noya.API",
   "BasePath": "_content/Noya.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

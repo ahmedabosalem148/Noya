@@ -9,3 +9,15 @@ C:\Users\ahmed\source\repos\Noya.Models\obj\Debug\net8.0\Noya.Models.dll
 C:\Users\ahmed\source\repos\Noya.Models\obj\Debug\net8.0\refint\Noya.Models.dll
 C:\Users\ahmed\source\repos\Noya.Models\obj\Debug\net8.0\Noya.Models.pdb
 C:\Users\ahmed\source\repos\Noya.Models\obj\Debug\net8.0\ref\Noya.Models.dll
+C:\Users\DELL\Documents\GitHub\Noya\Noya.Models\bin\Debug\net8.0\Noya.Models.deps.json
+C:\Users\DELL\Documents\GitHub\Noya\Noya.Models\bin\Debug\net8.0\Noya.Models.dll
+C:\Users\DELL\Documents\GitHub\Noya\Noya.Models\bin\Debug\net8.0\Noya.Models.pdb
+C:\Users\DELL\Documents\GitHub\Noya\Noya.Models\obj\Debug\net8.0\Noya.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GitHub\Noya\Noya.Models\obj\Debug\net8.0\Noya.Models.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GitHub\Noya\Noya.Models\obj\Debug\net8.0\Noya.Models.AssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\Noya\Noya.Models\obj\Debug\net8.0\Noya.Models.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Noya\Noya.Models\obj\Debug\net8.0\Noya.Models.sourcelink.json
+C:\Users\DELL\Documents\GitHub\Noya\Noya.Models\obj\Debug\net8.0\Noya.Models.dll
+C:\Users\DELL\Documents\GitHub\Noya\Noya.Models\obj\Debug\net8.0\refint\Noya.Models.dll
+C:\Users\DELL\Documents\GitHub\Noya\Noya.Models\obj\Debug\net8.0\Noya.Models.pdb
+C:\Users\DELL\Documents\GitHub\Noya\Noya.Models\obj\Debug\net8.0\ref\Noya.Models.dll

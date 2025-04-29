@@ -519,7 +519,7 @@
         },
         "runtime": {
           "Noya.BLL.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -532,7 +532,7 @@
         },
         "runtime": {
           "Noya.DAL.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -540,7 +540,7 @@
       "Noya.Models/1.0.0": {
         "runtime": {
           "Noya.Models.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
