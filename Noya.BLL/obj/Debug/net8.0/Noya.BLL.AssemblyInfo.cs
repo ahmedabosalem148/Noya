@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Noya.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84a2dd474a7e906c408123542533b31425df27b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8739c4e000219e0210c3b94ea187a9ba2fc6078f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Noya.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Noya.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

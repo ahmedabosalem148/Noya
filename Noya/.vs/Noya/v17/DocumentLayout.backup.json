@@ -3,6 +3,54 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.api\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.models\\finishingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.dal\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.api\\controllers\\finishingrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA71B8D-168F-4608-9F14-F301D450C737}|..\\Noya.BLL\\Noya.BLL.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.bll\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.dal\\workerjobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.dal\\materialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.dal\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.dal\\workerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.models\\materialrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.models\\workerjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E572D7-3848-4FEA-9EC5-96AD461BB6E5}|..\\Noya.Models\\Noya.Models.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.dal\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,9 +88,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{94E20C2D-0B59-4476-A52D-80C55321AEF4}|..\\Noya.API\\Noya.API.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.api\\controllers\\bundlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41763413-B832-4D32-8E72-8FE62B485DA2}|..\\Noya.DAL\\Noya.DAL.csproj|c:\\users\\dell\\documents\\github\\noya\\noya.dal\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,6 +102,199 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Noya.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.API\\appsettings.json",
+              "RelativeToolTip": "..\\Noya.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T00:29:57.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\Payment.cs",
+              "RelativeToolTip": "..\\Noya.Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:29:49.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AiController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.API\\Controllers\\AiController.cs",
+              "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\AiController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.API\\Controllers\\AiController.cs",
+              "RelativeToolTip": "..\\Noya.API\\Controllers\\AiController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:28:23.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinishingRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.API\\Controllers\\FinishingRequestController.cs",
+              "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\FinishingRequestController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.API\\Controllers\\FinishingRequestController.cs",
+              "RelativeToolTip": "..\\Noya.API\\Controllers\\FinishingRequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:45:16.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.BLL\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "..\\Noya.BLL\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.BLL\\Services\\ReportService.cs",
+              "RelativeToolTip": "..\\Noya.BLL\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:43:33.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\ReportRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\ReportRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\ReportRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:38:35.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\Report.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\Report.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\Report.cs",
+              "RelativeToolTip": "..\\Noya.Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:36:20.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinishingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\FinishingRequest.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\FinishingRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\FinishingRequest.cs",
+              "RelativeToolTip": "..\\Noya.Models\\FinishingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:30:55.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkerJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\WorkerJobRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\WorkerJobRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\WorkerJobRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\WorkerJobRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:04:11.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaterialRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\MaterialRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\MaterialRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\MaterialRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\MaterialRepository.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:59:04.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\WorkerRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\WorkerRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\WorkerRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\WorkerRepository.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAiwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:58:24.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MaterialRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\MaterialRequest.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\MaterialRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\MaterialRequest.cs",
+              "RelativeToolTip": "..\\Noya.Models\\MaterialRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:55:58.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\Noya.DAL\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\OrderRepository.cs",
+              "RelativeToolTip": "..\\Noya.DAL\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T02:43:06.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\Material.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\Material.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\Material.cs",
+              "RelativeToolTip": "..\\Noya.Models\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:55:23.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WorkerJob.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\WorkerJob.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\WorkerJob.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\WorkerJob.cs",
+              "RelativeToolTip": "..\\Noya.Models\\WorkerJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:54:47.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\Worker.cs",
+              "RelativeDocumentMoniker": "..\\Noya.Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\Worker.cs",
+              "RelativeToolTip": "..\\Noya.Models\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:54:16.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\AuthController.cs",
@@ -64,12 +302,11 @@
               "RelativeToolTip": "..\\Noya.API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T16:11:38.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T16:11:38.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.BLL\\AuthService.cs",
               "RelativeDocumentMoniker": "..\\Noya.BLL\\AuthService.cs",
@@ -77,25 +314,23 @@
               "RelativeToolTip": "..\\Noya.BLL\\AuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T16:09:32.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T16:09:32.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
               "Title": "AuthRepository.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\AuthRepository.cs",
               "RelativeDocumentMoniker": "..\\Noya.DAL\\AuthRepository.cs",
               "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\AuthRepository.cs",
               "RelativeToolTip": "..\\Noya.DAL\\AuthRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T16:08:56.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T16:08:56.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "..\\Noya.Models\\LoginRequest.cs",
@@ -103,12 +338,11 @@
               "RelativeToolTip": "..\\Noya.Models\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T16:07:40.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T16:07:40.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.BLL\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "..\\Noya.BLL\\Interfaces\\ICategoryService.cs",
@@ -116,12 +350,11 @@
               "RelativeToolTip": "..\\Noya.BLL\\Interfaces\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T14:56:06.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T14:56:06.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.API\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\CategoryController.cs",
@@ -129,12 +362,11 @@
               "RelativeToolTip": "..\\Noya.API\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T14:54:20.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T14:54:20.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\Category.cs",
               "RelativeDocumentMoniker": "..\\Noya.Models\\Category.cs",
@@ -142,12 +374,11 @@
               "RelativeToolTip": "..\\Noya.Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T14:53:36.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T14:53:36.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "BundleRepository.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\BundleRepository.cs",
               "RelativeDocumentMoniker": "..\\Noya.DAL\\BundleRepository.cs",
@@ -155,12 +386,11 @@
               "RelativeToolTip": "..\\Noya.DAL\\BundleRepository.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAiwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T07:15:39.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T07:15:39.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "..\\Noya.DAL\\CategoryRepository.cs",
@@ -168,12 +398,11 @@
               "RelativeToolTip": "..\\Noya.DAL\\CategoryRepository.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAiwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T07:15:38.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T07:15:38.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "BundleService.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.BLL\\Services\\BundleService.cs",
               "RelativeDocumentMoniker": "..\\Noya.BLL\\Services\\BundleService.cs",
@@ -185,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "BundleController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.API\\Controllers\\BundleController.cs",
               "RelativeDocumentMoniker": "..\\Noya.API\\Controllers\\BundleController.cs",
@@ -197,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.API\\Program.cs",
               "RelativeDocumentMoniker": "..\\Noya.API\\Program.cs",
@@ -205,12 +434,11 @@
               "RelativeToolTip": "..\\Noya.API\\Program.cs",
               "ViewState": "AgIAAAsAAACAmBrYhfkowCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:26:48.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T04:26:48.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "BundleItem.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.Models\\BundleItem.cs",
               "RelativeDocumentMoniker": "..\\Noya.Models\\BundleItem.cs",
@@ -219,18 +447,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T07:15:56.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "..\\Noya.DAL\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Noya\\Noya.DAL\\OrderRepository.cs",
-              "RelativeToolTip": "..\\Noya.DAL\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T02:43:06.013Z"
             }
           ]
         }
