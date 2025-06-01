@@ -7,8 +7,10 @@ namespace Noya.BLL.Interfaces
     {
         IEnumerable<Order> GetAll();
         Order GetById(int id);
+        IEnumerable<Order> GetOrdersByCustomerId(int customerId);
         void Create(Order order);
         void Update(Order order);
         void Delete(int id);
+        Order ProcessCheckout(CheckoutRequest checkout);
     }
 }
